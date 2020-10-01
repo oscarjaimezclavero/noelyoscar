@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             function ngs_grupal1(){
-                
+                echo "resolveremos el conflicto en la misma linea";
             }
             
             function ngs_grupal2(){
