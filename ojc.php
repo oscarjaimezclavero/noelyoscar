@@ -17,7 +17,7 @@ and open the template in the editor.
          } 
          
          function ojc2(){
-             
+             echo "Modifico una linea diferente a la de Oscar";
          }
         ?>
     </body>
