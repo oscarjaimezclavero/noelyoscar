@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
          function ojc1(){
-             
+             echo "vamos a crear un conflicto, mensaje de ojc";
          } 
          
          function ojc2(){
